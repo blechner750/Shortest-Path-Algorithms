@@ -1,0 +1,10 @@
+﻿  Main.cpp
+c:\users\brett\documents\visual studio 2015\projects\pm project 2 bellman\pm project 2 bellman\create.h(56): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\brett\documents\visual studio 2015\projects\pm project 2 bellman\pm project 2 bellman\create.h(68): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\brett\documents\visual studio 2015\projects\pm project 2 bellman\pm project 2 bellman\create.h(80): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\brett\documents\visual studio 2015\projects\pm project 2 bellman\pm project 2 bellman\create.h(92): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\brett\documents\visual studio 2015\projects\pm project 2 bellman\pm project 2 bellman\create.h(104): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\brett\documents\visual studio 2015\projects\pm project 2 bellman\pm project 2 bellman\create.h(116): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\brett\documents\visual studio 2015\projects\pm project 2 bellman\pm project 2 bellman\create.h(128): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\brett\documents\visual studio 2015\projects\pm project 2 bellman\pm project 2 bellman\create.h(140): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  PM Project 2 Bellman.vcxproj -> C:\Users\Brett\Documents\Visual Studio 2015\Projects\PM Project 2 Bellman\Debug\PM Project 2 Bellman.exe
