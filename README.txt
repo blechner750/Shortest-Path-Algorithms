@@ -16,7 +16,4 @@ NOTICE: If you are compiling you can look, but the hierarchy of files is Header\
 
 "PM Project 2 Bellman": contain the program for the Bellman-Ford algorithm. This is included
 			so you have the full program.
-	You should be able to open ...\PM Project 2 Bellman\Debug\PM Project 2 Bellman.exe to 		run the program directly.
-
-
-Enjoy the holidays and the break!
+	You should be able to open ...\PM Project 2 Bellman\Debug\PM Project 2 Bellman.exe to run the program directly.
